@@ -22,8 +22,10 @@ using namespace std;
 int main(int argc, char** argv){
     //Declare Variables
     char choice;
-    string name, name2, name3;
+    string sign1, sign2, name, name2, name3;
     string run1, run2, run3; //Runners name
+    
+    
    
     //Display Menu
     cout<<"Menu For Homework"<<endl;
@@ -367,6 +369,7 @@ int main(int argc, char** argv){
             //Declare Variables
     int         entry1,  //element entry 1
                 entry2;  //element entry 2
+    
              
    
              
